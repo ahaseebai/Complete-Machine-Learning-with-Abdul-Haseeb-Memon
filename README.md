@@ -1,1 +1,1 @@
-# Complete-Machine-Learning-with-Abdul-Haseeb-Memon
+# Complete Machine Learning - Abdul Haseeb Memon
